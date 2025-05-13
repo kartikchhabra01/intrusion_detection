@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+normal_traffic_features.npy
+file_baseline.json
+
+# Log files
+ids_alerts.log 
